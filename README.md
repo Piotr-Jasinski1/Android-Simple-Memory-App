@@ -28,17 +28,16 @@ Choose an emulator or a connected Android device
 🛠 Requirements
 Android Studio Flamingo or newer
 
-Java 17+ (depending on your project setup)
+Java 17+ 
 
-Android SDK: API level 33 (or as configured in the project)
+Android SDK: API level 33 
 
 💡 Features
 🎴 Classic memory card flipping game
 
 🧠 Match identical pairs
 
-⏱️ Tracks user moves/time (if implemented)
-
 🎨 Simple and clean UI
+
 This project is open source and free to use for educational and personal purposes.
 
